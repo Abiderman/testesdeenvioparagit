@@ -1,0 +1,87 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+div{
+    margin: auto;
+    text-align: center;
+    border: 1px solid gray;
+}
+h1{
+    color: rgb(8, 66, 66);
+}
+h2{
+    color: rgb(11, 66, 48);
+}
+p{
+    color: rgb(18, 34, 34);
+}
+article{
+    padding: 35px;
+    margin: 10px;
+    background-color: rgb(220, 243, 243);
+}
+footer{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    background-color: rgb(22, 22, 22);
+    color: white;
+    width: auto;
+    height: 35px;
+}
+nav{
+    background-color: rgb(162, 226, 204);
+    color: rgb(219, 145, 145);
+    height:auto;
+    margin: auto;
+    padding: 15px;
+}
+.menu{
+    display: inline;
+    text-decoration: none;
+    text-align: center;
+}
+.menu li{
+    width: 70px;
+   color: white;
+   display: inline;
+   padding-left: 20px;
+   padding-right: 20px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   background-color: rgb(4, 37, 43);
+   border-radius: 5px;
+   
+}
+a{
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+
+
+}
+a:hover{
+    color: rgb(4, 29, 34);
+    text-align: center;
+    text-decoration: none;
+}
+ul{
+    position: relative;
+    text-align: center;
+
+}
+
+.menu li:hover{
+    width: 70px;
+   color: white;
+   display: inline;
+   padding-left: 20px;
+   padding-right: 20px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   background-color: rgb(24, 135, 155);
+   
+}
